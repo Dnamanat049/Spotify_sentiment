@@ -13,14 +13,22 @@ An ethical dilemma that we confronted while conducting these analyses builds off
 Citations:
 Charlie Thompson, Daniel Antal, Josiah Parry, Donal Phipps and Tom Wolff (2021). spotifyr: R Wrapper for the ‘Spotify’ Web API. R package 
 version 2.2.3. https://CRAN.R-project.org/package=spotifyr
-“Decade in Review: 2010s Was the Decade of the Bull.” https://money.usnews.com/investing/stock-market-news/articles/2019-11-29/decade-in- 
-review-2010s-was-the-decade-of-the-bull 
+
+“Decade in Review: 2010s Was the Decade of the Bull.” https://money.usnews.com/investing/stock-market-news/articles/2019-11-29/decade-in-review-2010s-was-the-decade-of-the-bull 
+
 Garrett Grolemund, Hadley Wickham (2011). Dates and Times Made Easy with lubridate. Journal of Statistical Software, 40(3), 1-25. URL 
 https://www.jstatsoft.org/v40/i03/ 
+
 Hidaka, Brandon H. “Depression as a Disease of Modernity: Explanations for Increasing Prevalence.” Journal of Affective Disorders, vol. 140, no. 3, 2012, pp. 205–214., https://doi.org/10.1016/j.jad.2011.12.036. 
+
 Kuhn et al., (2020). Tidymodels: a collection of packages for modeling and machine learning using tidyverse principles. 
 https://www.tidymodels.org 
-Paul, Crystal (2019). “A Look Back at 10 of the Biggest Social Movements of the 2010s, and How They Shaped Seattle.” The Seattle Times, The Seattle Times Company, https://www.seattletimes.com/life/a-look-back-at-10-of-the-biggest-social-movements-of-the-2010s-and-how-they- shaped-seattle/ 
-Rich, Robert. “The Great Recession.” Federal Reserve History, https://www.federalreservehistory.org/essays/great-recession-of-200709 Taylor, Derrick Bryson (2020). “A Timeline of the Coronavirus Pandemic.” The New York Times, The New York Times, 
+
+Paul, Crystal (2019). “A Look Back at 10 of the Biggest Social Movements of the 2010s, and How They Shaped Seattle.” The Seattle Times, The Seattle Times Company, https://www.seattletimes.com/life/a-look-back-at-10-of-the-biggest-social-movements-of-the-2010s-and-how-they-shaped-seattle/ 
+
+Rich, Robert. “The Great Recession.” Federal Reserve History, https://www.federalreservehistory.org/essays/great-recession-of-200709 
+
+Taylor, Derrick Bryson (2020). “A Timeline of the Coronavirus Pandemic.” The New York Times, The New York Times, 
 https://www.nytimes.com/article/coronavirus-timeline.html
+
 Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686, https://doi.org/10.21105/joss.01686 Yihui Xie (2021). knitr: A General-Purpose Package for Dynamic Report Generation in R. R package version 1.33. 
