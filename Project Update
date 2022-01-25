@@ -1,0 +1,15 @@
+
+Update (We are submitting it late because we had to change our Project Idea entirely last week)
+Have you already collected, or do you have access to, all of the data that you will need in order to complete your project? If not, please estimate the percentage of the data that you have, describe any issues that you are having, and what your plan is for getting the rest of the data.
+
+Currently we have access to data through Spotify API. We have been able to get access to data on the features of the songs that would make up most of our variables in the model. This makes up for approximately 80% of our data. However, we have not been able to access lyrics of these songs that we were hoping to use for calculating a sentiment score that we would have used as an additional variable. We tried getting this data through a Genius API, but due to legal reasons it has been taken down. We’re now planning on not using lyrics; instead, we will use the “Valence” variable available on Spotify API, calculated by Spotify (since it has access to this data). 
+
+
+What is the single biggest unresolved issue you are having? Please describe it briefly, and what your plan is for resolving this issue.
+
+So far, the main issue has been getting the lyrics, as described above. Even though the “geniusr” package has functions to access lyrical data through the Genius API, we’re consistently getting an empty data frame when we run those functions. We’re looking for another API that might have data on song lyrics available; if not, we’ll not use lyrics as a variable. 
+
+
+What are the elements from outside of the course, if any, that you plan to incorporate into your project?
+
+We’re using a new live data source or API i.e. the Spotify API. 
