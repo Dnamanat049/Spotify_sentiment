@@ -1,4 +1,4 @@
-What’s the Vibe?
+*What’s the Vibe?*
 
 The purpose of our project was to create a model that could analyze whether a song should be classified as “happy” or “sad”, and then use that model to analyze how the general sentiment of popular music in the United States has trended over the past 20 years. With depressions, pandemics, record economic expansions and tremendous social change, the United States has experienced some of the most unique events in its economic and social history over the past 20 years. Throughout this period, we want to investigate whether songs have become happier, sadder, or trended up and down along with the events playing out on the national stage. 
 
